@@ -1,0 +1,166 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 1938682, "CODE": null, "OMSCHRIJVING": null, "GUID": "{D3114A2E-02D6-4BC4-A818-D634AC30849F}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 1, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115131.224, 562474.9763 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938683, "CODE": null, "OMSCHRIJVING": null, "GUID": "{8941D620-28C9-4B5B-955B-B900602A077C}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 2, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 114504.5583, 550866.6607 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938684, "CODE": null, "OMSCHRIJVING": null, "GUID": "{931418C9-EA9B-4249-A0A3-946460447378}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 3, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 120294.995, 544482.2178 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938685, "CODE": null, "OMSCHRIJVING": null, "GUID": "{BF5976A3-1230-4CCA-A456-DDDB12A5008D}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 4, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 117887.1272, 541638.5792 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938686, "CODE": null, "OMSCHRIJVING": null, "GUID": "{5D575827-DCB4-4ADA-B5A8-5A0F7DF15B77}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 5, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 116550.7819, 540912.8357 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938687, "CODE": null, "OMSCHRIJVING": null, "GUID": "{350CBE85-E65F-42F9-BE8F-4A8675852780}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 6, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 112854.2189, 538513.4791 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938688, "CODE": null, "OMSCHRIJVING": null, "GUID": "{69675DCE-4E61-4377-A385-DC52E0B87583}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 7, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 111228.089, 536403.5298 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938689, "CODE": null, "OMSCHRIJVING": null, "GUID": "{A585C4A3-2A46-4579-9EA2-65A8ED4B6A57}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 8, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 109443.9587, 541861.6608 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938690, "CODE": null, "OMSCHRIJVING": null, "GUID": "{F5F8499B-267D-4B22-A553-F89C1E0B7BE8}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 9, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 105952.8637, 530561.7628 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938691, "CODE": null, "OMSCHRIJVING": null, "GUID": "{CD3D0F03-56D7-414C-92B6-F9C0C89C6BF3}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 10, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 107797.9668, 534108.1368 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938692, "CODE": null, "OMSCHRIJVING": null, "GUID": "{962B6C24-5FAD-437D-98B8-D3AB3A11053C}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 11, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 110913.6746, 536241.8777 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938693, "CODE": null, "OMSCHRIJVING": null, "GUID": "{93570D02-16C3-4536-8A08-6812010E32C2}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 12, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 114381.4895, 534733.5128 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938694, "CODE": null, "OMSCHRIJVING": null, "GUID": "{DF8A5BB5-6775-40D4-B8BF-E82575DD8C7B}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 13, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 126802.2975, 539875.8251 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938695, "CODE": null, "OMSCHRIJVING": null, "GUID": "{CD194CE0-62DF-40C1-8AD1-D8498FDF1AB7}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 14, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 129798.0131, 539596.2681 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938696, "CODE": null, "OMSCHRIJVING": null, "GUID": "{5DDD502E-04EC-4954-BF40-C07E5F6E503F}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 15, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 130402.3179, 539560.7018 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938697, "CODE": null, "OMSCHRIJVING": null, "GUID": "{0D2789AE-071F-415B-A100-A01B746D0180}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 16, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 129700.3703, 538623.2532 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938698, "CODE": null, "OMSCHRIJVING": null, "GUID": "{56C06B6F-1B39-4810-BF7C-B39BCEAAA098}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 17, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 128142.2273, 536320.0805 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938699, "CODE": null, "OMSCHRIJVING": null, "GUID": "{4934971C-4239-42FE-8E7B-8CB4EB871E70}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 18, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115861.0023, 535213.1019 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938700, "CODE": null, "OMSCHRIJVING": null, "GUID": "{7F0B4962-9CA6-4E4C-B0FA-51B0C441A1FE}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 19, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 107063.5764, 508472.7754 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938701, "CODE": null, "OMSCHRIJVING": null, "GUID": "{FAEEA831-1DC5-4BE6-A597-51C92C706B0B}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 20, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 105301.9101, 508494.0056 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938702, "CODE": null, "OMSCHRIJVING": null, "GUID": "{FC688BD5-82A1-436E-BF5E-5A1B35C93D00}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 21, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 106360.2223, 520028.2009 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938703, "CODE": null, "OMSCHRIJVING": null, "GUID": "{18749ADF-CD65-419A-9A80-6230E919F24A}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 22, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 105719.1841, 515033.8806 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938704, "CODE": null, "OMSCHRIJVING": null, "GUID": "{0187EA3F-0F95-4151-9CF1-A3590B9064DF}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 23, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 112887.5008, 497623.2492 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938705, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3F322F33-1236-44DF-9D7A-5BD6C115E7DD}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 24, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 111231.913, 495370.92 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938706, "CODE": null, "OMSCHRIJVING": null, "GUID": "{93684115-FEAD-46DC-AC36-B67CF980D969}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 25, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 104664.7541, 501422.5646 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938707, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3BF6244C-840A-47EC-BF78-416E815354A0}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 26, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 103745.3414, 501232.9041 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938708, "CODE": null, "OMSCHRIJVING": null, "GUID": "{04C85F02-7376-48D1-97DF-C1D5B488FB64}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 27, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 103533.3586, 500286.6984 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938709, "CODE": null, "OMSCHRIJVING": null, "GUID": "{9A19BE91-757C-4354-AA58-C41A0A85711E}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 28, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 101398.4023, 489800.0437 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938710, "CODE": null, "OMSCHRIJVING": null, "GUID": "{1BE2CD5F-36F9-4BDB-92CA-05138C3645D1}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 29, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 110033.3508, 494437.2072 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938711, "CODE": null, "OMSCHRIJVING": null, "GUID": "{2E065817-993F-4B81-B31C-CC4B36F7F7BF}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 30, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 116595.5291, 498475.8065 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938712, "CODE": null, "OMSCHRIJVING": null, "GUID": "{67EF5D75-566C-4AD8-BFAA-B94497CD68C2}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 31, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 132522.4695, 471949.0192 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938713, "CODE": null, "OMSCHRIJVING": null, "GUID": "{0FD00880-5C39-4692-BCB2-CB78048EF953}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 32, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 138662.6742, 474668.9188 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938714, "CODE": null, "OMSCHRIJVING": null, "GUID": "{6F085638-6C82-4FFC-AA4D-D7C36579063B}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 33, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 137722.4204, 474668.0495 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938715, "CODE": null, "OMSCHRIJVING": null, "GUID": "{5CA7EBD8-C375-494F-BBE1-DBDD46A507C3}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 34, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 140594.8955, 466124.4694 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938716, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3501077B-52B6-45E6-8A6C-935A6F179AFF}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 35, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115466.6962, 473233.4185 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938717, "CODE": null, "OMSCHRIJVING": null, "GUID": "{C93C68A3-3B7E-452E-9D6E-2DE5A5CE211A}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 36, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 131166.8902, 520344.4667 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938718, "CODE": null, "OMSCHRIJVING": null, "GUID": "{0F0FE35D-78D2-4927-B177-42DBEF3F57C0}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 37, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 139114.7242, 523934.2573 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938719, "CODE": null, "OMSCHRIJVING": null, "GUID": "{BF13E0C5-2918-4A67-8B4B-157C4881CE26}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 38, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 137523.7235, 526382.9328 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938720, "CODE": null, "OMSCHRIJVING": null, "GUID": "{297E511E-5D12-42BE-B56D-A7614395A228}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 39, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 136804.5514, 527490.0663 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938721, "CODE": null, "OMSCHRIJVING": null, "GUID": "{B6117960-0947-4860-8153-E9C2691219F8}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 40, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 112080.8751, 523458.6621 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938722, "CODE": null, "OMSCHRIJVING": null, "GUID": "{660FEE9C-9D1C-4E9D-AEB5-369A897708EB}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 41, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 114857.5354, 475301.7074 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938723, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3D67745C-4E33-437A-991A-1541628D4A91}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 42, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115686.7407, 476781.327 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938724, "CODE": null, "OMSCHRIJVING": null, "GUID": "{D41067C0-137C-4772-BC3E-138BD0D4EAF9}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 43, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115701.5451, 479768.971 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938725, "CODE": null, "OMSCHRIJVING": null, "GUID": "{72E5FDEF-3004-4D1A-A805-0FEE6A972427}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 44, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115961.9065, 480608.4204 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938726, "CODE": null, "OMSCHRIJVING": null, "GUID": "{FEB81D3D-AEDD-431E-BB76-2368383C1E67}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 45, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 116559.8907, 480172.8334 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938727, "CODE": null, "OMSCHRIJVING": null, "GUID": "{99BC03ED-522B-445A-9E53-B6BA73392985}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 46, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 109380.4918, 524611.8069 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938728, "CODE": null, "OMSCHRIJVING": null, "GUID": "{BD3ABF66-F58A-4B0B-B136-436C07C8F654}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 47, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 109603.8178, 524680.3583 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938729, "CODE": null, "OMSCHRIJVING": null, "GUID": "{D7890F43-FA78-49E9-A84B-BD774A9EB494}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 48, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 105386.725, 501754.3693 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938730, "CODE": null, "OMSCHRIJVING": null, "GUID": "{BCCFB9B3-C74F-43C5-B850-BE03E007F025}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 49, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 125876.8124, 515526.4939 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938731, "CODE": null, "OMSCHRIJVING": null, "GUID": "{CA541536-DFA2-4FB2-9ABB-A91CACCF5018}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 50, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 121577.4156, 520686.4908 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938732, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3229B609-9BF3-4EB4-B37F-8A1B33DC861A}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 51, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 129264.7032, 514944.5451 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938733, "CODE": null, "OMSCHRIJVING": null, "GUID": "{2DF415DF-6896-4541-B327-48E4E881B545}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 52, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 124470.9054, 511260.7413 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938734, "CODE": null, "OMSCHRIJVING": null, "GUID": "{58ABC73C-1E4B-456C-83A8-DB8C9CE1C29F}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 53, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115450.0332, 516625.9799 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938735, "CODE": null, "OMSCHRIJVING": null, "GUID": "{BD41108D-15A9-428F-A287-F36D50B52C29}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 54, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 102907.5026, 474199.2485 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938736, "CODE": null, "OMSCHRIJVING": null, "GUID": "{778C6DA1-0D88-4EA2-B7F4-93704204B3D6}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 55, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 101573.5572, 475052.3303 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938737, "CODE": null, "OMSCHRIJVING": null, "GUID": "{B91CA000-45C3-414A-92D5-09A513640D3C}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 56, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 100933.3835, 475528.4379 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938738, "CODE": null, "OMSCHRIJVING": null, "GUID": "{24158622-B911-4FBF-9B93-BD3FFC5F3C03}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 57, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 108455.2832, 486966.5616 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938739, "CODE": null, "OMSCHRIJVING": null, "GUID": "{B034EDD2-4AE8-496C-BA26-0557C1CB08F1}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 58, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 108818.8193, 486975.5575 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938740, "CODE": null, "OMSCHRIJVING": null, "GUID": "{87DCC0A2-9D33-4762-B409-704FC68EC4D7}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 59, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 134984.9223, 530348.1984 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938741, "CODE": null, "OMSCHRIJVING": null, "GUID": "{F9660A69-76B8-4290-BF57-5B8960A2EE78}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 60, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 145284.6687, 522076.3984 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938742, "CODE": null, "OMSCHRIJVING": null, "GUID": "{DCBC2B6A-B108-4204-BB42-AB07E24129E0}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 61, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 124154.5654, 510341.3634 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938743, "CODE": null, "OMSCHRIJVING": null, "GUID": "{E773A4CA-0A97-4A17-93D9-716F829B65CD}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 62, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 122866.7727, 528491.6157 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938744, "CODE": null, "OMSCHRIJVING": null, "GUID": "{D5F6234D-C1E0-43C4-B30D-9273291C26EB}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 63, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 129242.5538, 535317.6818 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938745, "CODE": null, "OMSCHRIJVING": null, "GUID": "{7B12297D-549A-48E3-B5DE-1938A516EE4A}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 64, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 125650.4818, 531439.7106 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938746, "CODE": null, "OMSCHRIJVING": null, "GUID": "{C73B96A4-BF7C-4341-817F-82681E8A0C1E}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 65, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 129695.7544, 502847.5838 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938747, "CODE": null, "OMSCHRIJVING": null, "GUID": "{09BD1A7F-8270-4549-9F5F-E0935E93F2F4}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 66, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 130789.0369, 500178.7614 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938748, "CODE": null, "OMSCHRIJVING": null, "GUID": "{DCDB894F-30C0-4B10-A7AA-09B51359D870}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 67, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 131815.1531, 503236.7838 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938749, "CODE": null, "OMSCHRIJVING": null, "GUID": "{278BED0E-84FC-428C-AE13-A0D767F61DD2}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 68, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 128604.9975, 509843.4345 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938750, "CODE": null, "OMSCHRIJVING": null, "GUID": "{EA0B296B-0F30-47DD-AB12-6FA59423CF3E}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 69, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 99896.6291, 482321.7492 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938751, "CODE": null, "OMSCHRIJVING": null, "GUID": "{E4688B4B-75EB-4260-AEEB-AA91D5836156}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 70, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115150.1955, 507713.7455 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938752, "CODE": null, "OMSCHRIJVING": null, "GUID": "{43E84675-D033-475F-86A3-9AA4FE6643E1}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 71, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 124965.4182, 504986.3607 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938753, "CODE": null, "OMSCHRIJVING": null, "GUID": "{6CC3842D-BFDB-4196-872C-B83A8725B827}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 72, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 125318.127, 504834.5186 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938754, "CODE": null, "OMSCHRIJVING": null, "GUID": "{33D6D97C-102F-4F88-B4DE-7CCDA43567CD}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 73, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 115701.4845, 516948.8117 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938755, "CODE": null, "OMSCHRIJVING": null, "GUID": "{295DF9C5-907E-4516-A2DC-DAFCB8F3D1C8}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 74, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 114218.9091, 523900.8448 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938756, "CODE": null, "OMSCHRIJVING": null, "GUID": "{A77C3BF2-C38B-4640-A0D6-71C9834D294A}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 75, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 119416.1333, 521088.0476 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938757, "CODE": null, "OMSCHRIJVING": null, "GUID": "{7980A6BA-FB11-4680-85F4-F656C53301AF}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 76, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 116806.4697, 474388.9683 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938758, "CODE": null, "OMSCHRIJVING": null, "GUID": "{3EFDC253-1297-42D1-97D2-7D83A34AF5FF}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 77, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "Geen info" }, "geometry": { "type": "Point", "coordinates": [ 116671.1398, 474119.7331 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938759, "CODE": null, "OMSCHRIJVING": null, "GUID": "{549CE25C-B3A2-4041-85D9-791528F1B302}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 78, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 117996.0, 528646.0 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938760, "CODE": null, "OMSCHRIJVING": null, "GUID": "{7465EC4B-2F43-4212-98CE-EDADCB18CCC2}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 79, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 119122.99, 526215.8558 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 1938761, "CODE": null, "OMSCHRIJVING": null, "GUID": "{D209FEAB-5CFF-45A2-8D98-F5635775CA2D}", "STATUS": "Actueel", "WEG": null, "OBJBEGINTIJD": "2051294208", "OBJEINDTIJD": null, "OBJECTID": 80, "TYPEKRUISPUNT": "Rotonde", "BEHEERDER": "PNH" }, "geometry": { "type": "Point", "coordinates": [ 130575.0, 523034.0 ] } }
+
+]
+}
